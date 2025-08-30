@@ -46,7 +46,7 @@ int main(void)
             "1. Monitoraggio della directory \n"
             "2. Lista dei contenuti della directory\n"
             "3. Pulisci lo schermo\n"
-            "4. Crea File/directory\n"
+            "4. Crea File\n"
             "5. Elimina File/directory\n"
             "6. Cambia directory\n"
             "7. Crea directory\n"
@@ -96,4 +96,5 @@ int main(void)
         }
     }
     return 0;
+
 }
