@@ -1,0 +1,1 @@
+void inotify_monitor(char *path);
